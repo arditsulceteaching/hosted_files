@@ -1,0 +1,64 @@
+{
+  "quizzes": [
+    {
+      "quizTitle": "World Capitals",
+      "questions": [
+        {
+          "question": "What is the capital of France?",
+          "choices": ["Paris", "London", "Berlin", "Madrid"],
+          "correctAnswer": "Paris"
+        },
+        {
+          "question": "What is the capital of Japan?",
+          "choices": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+          "correctAnswer": "Tokyo"
+        },
+        {
+          "question": "What is the capital of Canada?",
+          "choices": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+          "correctAnswer": "Ottawa"
+        }
+      ]
+    },
+    {
+      "quizTitle": "Continents and Countries",
+      "questions": [
+        {
+          "question": "Which continent is Brazil located in?",
+          "choices": ["Africa", "Asia", "South America", "Europe"],
+          "correctAnswer": "South America"
+        },
+        {
+          "question": "Which continent is Egypt located in?",
+          "choices": ["Europe", "Asia", "Africa", "Australia"],
+          "correctAnswer": "Africa"
+        },
+        {
+          "question": "Which continent is Australia located in?",
+          "choices": ["Asia", "South America", "Australia", "Africa"],
+          "correctAnswer": "Australia"
+        }
+      ]
+    },
+    {
+      "quizTitle": "Rivers and Mountains",
+      "questions": [
+        {
+          "question": "Which is the longest river in the world?",
+          "choices": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+          "correctAnswer": "Nile"
+        },
+        {
+          "question": "Which is the highest mountain in the world?",
+          "choices": ["K2", "Kangchenjunga", "Lhotse", "Mount Everest"],
+          "correctAnswer": "Mount Everest"
+        },
+        {
+          "question": "Which river flows through Paris?",
+          "choices": ["Thames", "Seine", "Danube", "Rhone"],
+          "correctAnswer": "Seine"
+        }
+      ]
+    }
+  ]
+}
